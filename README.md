@@ -4,8 +4,12 @@ Project Process: A fast contraband detection system was designed using PMMW imag
 Project Results: The model size was 2.3M with a compression rate of 26.98%, enabling lightweight deployment. This significantly improved safety detection efficiency in public places like airports and subway stations, effectively enhancing public safety.
 Performance comparison of the model before and after quantization：
 <img width="407" alt="image" src="https://github.com/user-attachments/assets/c2b6195e-85ad-4cd2-ab1a-cab4656bc391" />
+
 Ablation study：
+
 <img width="409" alt="image" src="https://github.com/user-attachments/assets/56877732-a55e-40ed-84ad-46b357e19bbc" />
+
+
 <img width="351" alt="image" src="https://github.com/user-attachments/assets/272872d6-0d20-4057-8c62-5f24a76d5115" />
 
 
