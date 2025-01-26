@@ -1,0 +1,10 @@
+
+
+train: C:\Users\hnlk1\Desktop\闲鱼-崔胖胖\ultralytics-main\PMMW\train
+val: C:\Users\hnlk1\Desktop\闲鱼-崔胖胖\ultralytics-main\PMMW\valid
+
+# number of classes
+nc: 4
+
+# class names
+names: ['person', 'gun','other','cat']

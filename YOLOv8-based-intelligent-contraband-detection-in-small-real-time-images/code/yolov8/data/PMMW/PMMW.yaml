@@ -1,0 +1,10 @@
+
+
+train: C:/Users/DELL/Desktop/yolov8/data/PMMW/train
+val: C:/Users/DELL/Desktop/yolov8/data/PMMW/valid
+
+# number of classes
+nc: 4
+
+# class names
+names: ['person', 'gun','other','cat']

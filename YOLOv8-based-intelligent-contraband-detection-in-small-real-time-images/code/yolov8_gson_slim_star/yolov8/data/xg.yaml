@@ -1,0 +1,9 @@
+train: C:/Users/DELL/Desktop/yolov8_gson_slim/yolov8/data/images/train
+val: C:/Users/DELL/Desktop/yolov8_gson_slim/yolov8/data/images/val
+
+
+# number of classes
+nc: 10
+
+# class names
+names: ['lighter', 'pressure', 'knife', 'scissors', 'powerbank', 'zippooil', 'handcuffs', 'slingshot', 'firecrackers', 'nailpolish']
